@@ -3,6 +3,9 @@ target/
 build/
 dist/
 out/
+.next/
+next-env.d.ts
+*.tsbuildinfo
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
